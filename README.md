@@ -20,12 +20,11 @@ build a function to find the similar cars in AutoScout24 website in real time>
 #### 7- cars:
 the saved data file from the data collection stage.
 
-### Note:
-some of the features and values are in German language.
 
 ### The front-end of the MVP:
 
 
 <img width="469" alt="image" src="https://user-images.githubusercontent.com/89030524/210172546-37130856-eb70-4dc6-842a-c0b48d8c0b52.png">
 
-
+#### Note:
+some of the features and values are in German language.
