@@ -27,4 +27,4 @@ the saved data file from the data collection stage.
 <img width="469" alt="image" src="https://user-images.githubusercontent.com/89030524/210172546-37130856-eb70-4dc6-842a-c0b48d8c0b52.png">
 
 #### Note:
-some of the features and values are in German language.
+some of the features and values in the dataset are in German language.
